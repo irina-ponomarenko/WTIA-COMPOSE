@@ -170,7 +170,7 @@ input{
 .composeLine{
     margin: 0;
     margin-top: 8px;
-    border-top: 1px solid #d3e3eb;
+    border-top: 2px solid #d3e3eb;
     margin-left: 16px;
     margin-right: 16px;
 }
